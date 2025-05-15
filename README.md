@@ -33,28 +33,23 @@ This verification environment validates a parameterized synchronous FIFO design 
 ```
 ## Coverage Results
 
+### Excutive Summary
+
+![Excutive Summary](./Docs/Executive%20Summary.png)
+
 ### Code Coverage
 
-![Code Coverage](docs/code_coverage.png)
+![Code Coverage](./Docs/Code%20Coverage%20Analysis.png)
 
 ### Functional Coverage
 
-![Functional Coverage](docs/functional_coverage.png)
+![Functional Coverage](./Docs/Functional%20Coverage%20Analysis.png)
 
 ## Assertions
 
-SystemVerilog assertions were used to validate protocol behavior and design correctness. Key assertions include:
-- FIFO full/empty behavior
-- Read/write enable control
-- Reset behavior
+![Assertions Coverage](./Docs/Assertion%20Coverage.png)
 
-### Assertion Dashboard
+### Verification Conclusion
 
-![Assertions](docs/assertion_dashboard.png)
+![Verification Conclusion](./Docs/Verification%20Conclusion.png)
 
-## How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/AbdelrahmanEA8/SV_based_verification_Sync_FIFO.git
-   cd SV_based_verification_Sync_FIFO
