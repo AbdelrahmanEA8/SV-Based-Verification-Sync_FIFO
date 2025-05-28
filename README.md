@@ -1,4 +1,4 @@
-# SV_based_verification_Sync_FIFO
+# SV-Based-Verification-Sync_FIFO
 
 SystemVerilog-based functional verification project for a **Synchronous FIFO** design using UVM-inspired techniques and industry best practices. This project demonstrates constrained-random stimulus generation, assertion-based verification, and functional + code coverage closure.
 
